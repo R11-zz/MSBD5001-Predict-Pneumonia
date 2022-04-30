@@ -29,7 +29,7 @@ Dataset is given in https://www.kaggle.com/competitions/msbd5001-spring-2022/dat
 
 <h3 id="2">2. Data Exploration</h3>
 
-Before prediction, view the data distribution and correlation between attributes. [Data Exploration.ipynb](data/Data Exploration.ipynb)
+Before prediction, view the data distribution and correlation between attributes.  [Data Exploration](data/Data Exploration.ipynb)
 
 
 <h3 id="3">3. Models</h3>
