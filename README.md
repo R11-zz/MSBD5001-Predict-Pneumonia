@@ -29,11 +29,22 @@ Dataset is given in https://www.kaggle.com/competitions/msbd5001-spring-2022/dat
 
 <h3 id="2">2. Data Exploration</h3>
 
-Before prediction, view the data distribution and correlation between attributes.  [Data Exploration](data/Data Exploration.ipynb)
+Before prediction, view the data distribution and correlation between attributes.  [EDA.ipynb](data/EDA.ipynb)
 
 
 <h3 id="3">3. Models</h3>
 
+- Random Forest [randomforest.ipynb](model/randomforest.ipynb)
+
+- XGBoost [XGBoost.ipynb](model/XGBoost.ipynb)
+
+
 <h3 id="4">4. Results</h3>
+
+|     Model     |     Submission File    | Public Leaderboard |
+| ------------- | ---------------------- | ------------------ |
+| Random Forest | 6_submission.csv       | 0.96551            |
+| XGBoost       | 7_xgb_submission.csv   | 0.96551            |
+
 
 
